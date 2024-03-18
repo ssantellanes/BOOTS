@@ -1,5 +1,5 @@
 ---
-title:'Manuscript Codes and Supplemental Info'
+title:'Codes and Supplemental Info: Santellanes and Melgar (2024) Info'
 date: 2024-03-18
 permalink: README.md
 ---
