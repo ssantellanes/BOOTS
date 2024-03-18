@@ -1,5 +1,5 @@
 ---
-title:'The 2020 Sand Point Earthquake: (Disaster) Chart Party'
+title:'Manuscript Codes and Supplemental Info'
 date: 2024-03-18
 permalink: README.md
 ---
