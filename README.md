@@ -1,6 +1,6 @@
 ---
-title:'Codes and Supplemental Info: Santellanes and Melgar (2024) Info'
-date: 2024-03-18
+title:'Codes and Supplemental Info: Santellanes et al. (2026) I hope Info'
+date: 2026-11-20
 permalink: README.md
 ---
 
