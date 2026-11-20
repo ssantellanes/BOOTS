@@ -23,3 +23,7 @@ for the depth at the day of the data sampling.
 
 The tsunami database from the National Geophysical Data Center / World Data Service: NCEI/WDS Global Historical Tsunami Database used for this study is attached here. 
 See manuscript for which conditions were used to arrive at the tsunamis filtered for this study.
+
+## Bayesian Denoiser
+
+In order to run the Bayesian denoiser you will need to use the PPSDs which are in the NPZ folder. You will need to change the path to accomodate the paths, but other than that everything should work fine. The ipynb is pretty self-explanatory, so the code comments are kept to a minimum. The ERA5 files are needed to run anything, but they are nice to have around.
