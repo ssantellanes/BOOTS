@@ -4,7 +4,7 @@ date: 2026-11-20
 permalink: README.md
 ---
 
-# Santellanes and Melgar (2024) Codes
+# Santellanes et al. (2026) Codes
 ## Python Codes
 This GitHub repo contains 4 python scripts. All except read_threadds_catalog.py are self contained and require some manipulation of the file paths.
 In order to run read_threadds_catalog.py, do the following steps:
