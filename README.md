@@ -26,7 +26,7 @@ See manuscript for which conditions were used to arrive at the tsunamis filtered
 
 ## Bayesian Denoiser
 
-In order to run the Bayesian denoiser you will need to use the PPSDs which are in the NPZ folder. You will need to change the path to accomodate the paths, but other than that everything should work fine. The ipynb is pretty self-explanatory, so the code comments are kept to a minimum. The ERA5 files are needed to run anything, but they are nice to have around.
+In order to run the Bayesian denoiser you will need to use the PPSDs which are in the NPZ folder. You will need to change the path to accomodate the paths, but other than that everything should work fine. The ipynb is pretty self-explanatory, so the code comments are kept to a minimum. The ERA5 files are not needed to run anything, but they are nice to have around.
 
 ## ERA5 Data
 
