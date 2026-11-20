@@ -27,3 +27,6 @@ See manuscript for which conditions were used to arrive at the tsunamis filtered
 ## Bayesian Denoiser
 
 In order to run the Bayesian denoiser you will need to use the PPSDs which are in the NPZ folder. You will need to change the path to accomodate the paths, but other than that everything should work fine. The ipynb is pretty self-explanatory, so the code comments are kept to a minimum. The ERA5 files are needed to run anything, but they are nice to have around.
+
+## MISC files
+Files and uncritical files are included in this repo. They can be messed around with to include the ESNZ DART network or the SMART cable OBPGs. It's left open-ended here because my postdoc is ending, so maybe useful for someone to draft a paper (so long as they include me of course).
