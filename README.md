@@ -28,5 +28,9 @@ See manuscript for which conditions were used to arrive at the tsunamis filtered
 
 In order to run the Bayesian denoiser you will need to use the PPSDs which are in the NPZ folder. You will need to change the path to accomodate the paths, but other than that everything should work fine. The ipynb is pretty self-explanatory, so the code comments are kept to a minimum. The ERA5 files are needed to run anything, but they are nice to have around.
 
+## ERA5 Data
+
+I can't upload all the ERA5 data for some reason, but one thing to do is to use ERA_corr.py to recreate the dataset. So long as you give it a valid time range and DART location, the dataset should be similar. You don't need to round to the nearest 0.25 degree. The program and query does it for you :).
+
 ## MISC files
 Files and uncritical files are included in this repo. They can be messed around with to include the ESNZ DART network or the SMART cable OBPGs. It's left open-ended here because my postdoc is ending, so maybe useful for someone to draft a paper (so long as they include me of course).
